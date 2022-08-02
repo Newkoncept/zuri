@@ -1,1 +1,1 @@
-web: gunicorn SimpliXL.wsgi
+web: gunicorn SimpliXL.wsgi --log-file -
